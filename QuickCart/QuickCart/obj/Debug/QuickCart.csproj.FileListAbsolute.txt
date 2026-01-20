@@ -1,0 +1,72 @@
+C:\Users\User\source\repos\QuickCart\QuickCart\bin\Debug\QuickCart.exe.config
+C:\Users\User\source\repos\QuickCart\QuickCart\bin\Debug\QuickCart.exe
+C:\Users\User\source\repos\QuickCart\QuickCart\bin\Debug\QuickCart.pdb
+C:\Users\User\source\repos\QuickCart\QuickCart\obj\Debug\QuickCart.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\QuickCart\QuickCart\obj\Debug\QuickCart.Loginpage.resources
+C:\Users\User\source\repos\QuickCart\QuickCart\obj\Debug\QuickCart.Form2.resources
+C:\Users\User\source\repos\QuickCart\QuickCart\obj\Debug\QuickCart.Properties.Resources.resources
+C:\Users\User\source\repos\QuickCart\QuickCart\obj\Debug\QuickCart.csproj.GenerateResource.cache
+C:\Users\User\source\repos\QuickCart\QuickCart\obj\Debug\QuickCart.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\QuickCart\QuickCart\obj\Debug\QuickCart.exe
+C:\Users\User\source\repos\QuickCart\QuickCart\obj\Debug\QuickCart.pdb
+C:\Users\User\source\repos\QuickCart\QuickCart\obj\Debug\QuickCart.exe.config
+C:\Users\User\source\repos\QuickCart\QuickCart\obj\Debug\QuickCart.Form3.resources
+C:\Users\User\source\repos\QuickCart\QuickCart\obj\Debug\QuickCart.Form4.resources
+C:\Users\User\source\repos\QuickCart\QuickCart\obj\Debug\QuickCart.Form5.resources
+C:\Users\User\source\repos\QuickCart\QuickCart\obj\Debug\QuickCart.Form6.resources
+C:\Users\User\source\repos\QuickCart\QuickCart\obj\Debug\QuickCart.Form7.resources
+C:\Users\User\source\repos\QuickCart\QuickCart\obj\Debug\QuickCart.Form8.resources
+C:\Users\User\source\repos\QuickCart\QuickCart\obj\Debug\QuickCart.Form10.resources
+C:\Users\User\source\repos\QuickCart\QuickCart\obj\Debug\QuickCart.Form11.resources
+C:\Users\User\source\repos\QuickCart\QuickCart\obj\Debug\QuickCart.Form12.resources
+C:\Users\User\source\repos\QuickCart\QuickCart\obj\Debug\QuickCart.Form9.resources
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\bin\Debug\QuickCart.exe.config
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\bin\Debug\QuickCart.exe
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\bin\Debug\QuickCart.pdb
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\obj\Debug\QuickCart.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\obj\Debug\QuickCart.Loginpage.resources
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\obj\Debug\QuickCart.Form10.resources
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\obj\Debug\QuickCart.Form11.resources
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\obj\Debug\QuickCart.Form12.resources
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\obj\Debug\QuickCart.Form13.resources
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\obj\Debug\QuickCart.Form14.resources
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\obj\Debug\QuickCart.Form2.resources
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\obj\Debug\QuickCart.Form3.resources
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\obj\Debug\QuickCart.Form4.resources
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\obj\Debug\QuickCart.Form5.resources
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\obj\Debug\QuickCart.Form6.resources
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\obj\Debug\QuickCart.Form7.resources
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\obj\Debug\QuickCart.Form8.resources
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\obj\Debug\QuickCart.Form9.resources
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\obj\Debug\QuickCart.Properties.Resources.resources
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\obj\Debug\QuickCart.Registration.resources
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\obj\Debug\QuickCart.seller_profile_management.resources
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\obj\Debug\QuickCart.csproj.GenerateResource.cache
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\obj\Debug\QuickCart.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\obj\Debug\QuickCart.exe
+C:\Users\User\Downloads\QuickCart (3) 1\QuickCart\QuickCart\obj\Debug\QuickCart.pdb
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\bin\Debug\QuickCart.exe.config
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\bin\Debug\QuickCart.exe
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\bin\Debug\QuickCart.pdb
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\obj\Debug\QuickCart.csproj.AssemblyReference.cache
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\obj\Debug\QuickCart.Loginpage.resources
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\obj\Debug\QuickCart.Form10.resources
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\obj\Debug\QuickCart.Form11.resources
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\obj\Debug\QuickCart.Form12.resources
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\obj\Debug\QuickCart.Form13.resources
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\obj\Debug\QuickCart.Form14.resources
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\obj\Debug\QuickCart.Form2.resources
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\obj\Debug\QuickCart.Form3.resources
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\obj\Debug\QuickCart.Form4.resources
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\obj\Debug\QuickCart.Form5.resources
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\obj\Debug\QuickCart.Form6.resources
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\obj\Debug\QuickCart.Form7.resources
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\obj\Debug\QuickCart.Form8.resources
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\obj\Debug\QuickCart.Form9.resources
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\obj\Debug\QuickCart.Properties.Resources.resources
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\obj\Debug\QuickCart.Registration.resources
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\obj\Debug\QuickCart.seller_profile_management.resources
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\obj\Debug\QuickCart.csproj.GenerateResource.cache
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\obj\Debug\QuickCart.csproj.CoreCompileInputs.cache
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\obj\Debug\QuickCart.exe
+D:\Study Matrial\C#-project-cart-managment\QuickCart\QuickCart\obj\Debug\QuickCart.pdb
